@@ -12,4 +12,4 @@ A saliency map for a given `input` can then for example be created by using
 ```
 analyzer.analyze(input)
 ```
-For furhter details please refer to the original innvestigate repository https://github.com/albermax/innvestigate.
+For further details please refer to the original innvestigate repository https://github.com/albermax/innvestigate.
